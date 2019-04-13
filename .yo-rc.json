@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.growup.inventory",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "inventory",
+    "packageName": "com.growup.inventory",
+    "packageFolder": "com/growup/inventory",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzYzM2JmZjUyMDNhOTIwZjFjM2YwZjM3N2ZmMjQwY2MwMGY5ZjlkYjFjYmU0YzIzNWMxODBmNjM2ZDZlZDdmODc0MzYwMDVhYWEyYTI3NmQ4YzE0OWU5NzVjMTIyMDgzYTg3MWQ4MjM0MmFkYjk1NmE1MjhlNWQxYzdlZGUxZDg=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr"
+    ]
+  }
+}
